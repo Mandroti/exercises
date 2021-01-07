@@ -221,6 +221,7 @@ char Menu(void)
 	printf("[C]-Relatorio\n");
 	printf("[D]-Procurar por Mes\n");
 	printf("[E]-Excluir Cliente\n");
+	printf("[ESC]-Sair\n");
 	return toupper(getch());
 }
 
