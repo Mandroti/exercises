@@ -1,0 +1,2 @@
+# StructFuncao
+Programinhas para treinamento 
